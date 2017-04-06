@@ -6,4 +6,3 @@ applications:
   name: chl-python-01
   host: chl-python-01
   disk_quota: 1024M
-  buildpack: https://buildpacks.cloudfoundry.org/dependencies/python/python-3.5.3-linux-x64-105f02b2.tgz
